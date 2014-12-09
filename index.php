@@ -12,6 +12,11 @@ and open the template in the editor.
     <body>
         <?php
         echo 'hello';
+        $abc = 35;
+        if($abc > 33){
+            echo 'hello';           
+            
+        }
         ?>
     </body>
 </html>
